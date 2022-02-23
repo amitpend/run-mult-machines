@@ -5,10 +5,10 @@ use POSIX;
 $num_args = $#ARGV + 1;
 my @processids;
 
-$parts = 100;
+$parts = 72;
 
-$hostname="htc";
-$hostnum = "17";
+$hostname="hdc";
+$hostnum = "1";
 $username="amitpend";
 
 if ($num_args != 1)
