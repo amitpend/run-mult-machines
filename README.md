@@ -7,10 +7,15 @@ It also saves the log file of everything printed on the screen.
 
 command_file has contents
   md5sum file1
+  
   md5sum file2
+  
   md5sum file3
+  
   md5sum file4
+  
   md5sum file5
+  
   
 Each command should run on different machine. Thus 'md5sum file1' would run on hdc-001, 'md5sum file2' would run on hdc-002 and so on. The machine name could depend on your center.
 
