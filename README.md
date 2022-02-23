@@ -7,13 +7,9 @@ It also saves the log file of everything printed on the screen.
 
 command_file has contents
   md5sum file1
-  
   md5sum file2
-  
   md5sum file3
-  
   md5sum file4
-  
   md5sum file5
   
   
