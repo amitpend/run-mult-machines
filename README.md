@@ -1,7 +1,9 @@
 # run-mult-machines
 Running commands parallelly on multiple machines
 
-This perl script forks multiple processes and each process logs in to different machine and runs the command. The parent process waits for pseudo-process to finish, prints out statistics on the screen and exits
+This perl script forks multiple processes and each process logs in to different machine and runs the command. The parent process waits for pseudo-process to finish, prints out statistics on the screen and exits.
+
+It also saves the log file of everything printed on the screen.
 
 command_file has contents
   md5sum file1
