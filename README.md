@@ -23,4 +23,4 @@ run_mult_machines.pl command_file
 This will run each line from 'command_file' on different machine. The parent process will wait for each pseudo-process to finish. It will then print the statistics in the log file 'command_file_log'
 
 #### Detailed Explanation
-https://medium.com/@amitpen/running-commands-parallelly-on-multiple-machines-85266fea5914
+https://amitpend.medium.com/running-commands-parallelly-on-multiple-machines-85266fea5914
